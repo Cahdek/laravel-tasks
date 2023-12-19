@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/64da213a-91ad-4c38-a95b-303f08e40cf8/resourceGroups/testing/providers/Microsoft.Web/sites/msdocs-laravel-mysql-HPT",
+  "appService.deploySubpath": "."
+}
